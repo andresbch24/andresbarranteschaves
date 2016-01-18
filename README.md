@@ -1,2 +1,0 @@
-# andresbarranteschaves
-Curso programacón lll
