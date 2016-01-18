@@ -1,0 +1,6 @@
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\bin\Debug\lec2.exe.config
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\bin\Debug\lec2.exe
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\bin\Debug\lec2.pdb
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\obj\Debug\lec2.csprojResolveAssemblyReference.cache
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\obj\Debug\lec2.exe
+c:\users\andrés\documents\visual studio 2013\Projects\lec2\lec2\obj\Debug\lec2.pdb
