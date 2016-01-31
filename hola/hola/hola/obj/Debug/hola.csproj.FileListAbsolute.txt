@@ -1,0 +1,16 @@
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\bin\Debug\hola.exe
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\bin\Debug\hola.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.Form1.resources
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.Properties.Resources.resources
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.exe
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\hola\hola\obj\Debug\hola.csprojResolveAssemblyReference.cache
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.exe
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.pdb
+C:\Users\Andrés\Downloads\hola\hola\hola\bin\Debug\hola.exe
+C:\Users\Andrés\Downloads\hola\hola\hola\bin\Debug\hola.pdb
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.csprojResolveAssemblyReference.cache
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.Properties.Resources.resources
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.csproj.GenerateResource.Cache
+C:\Users\Andrés\Downloads\hola\hola\hola\obj\Debug\hola.PRUEBA.resources
